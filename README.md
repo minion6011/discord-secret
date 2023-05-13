@@ -6,6 +6,20 @@
 ### Non funzionante
 ```
 https://discord.com/__development/link?s=VQw65opXPNOuzDRAa9ID91y7BV0U0ATg%2FmZfrhCBCqc%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImZlYXR1cmUvd2ViLXNsYXNoLWNvbW1hbmQtbG9jYWxpemF0aW9uIn19LCJyZWxlYXNlQ2hhbm5lbCI6bnVsbCwidmFsaWRGb3JVc2VySWRzIjpbXSwiYWxsb3dMb2dnZWRPdXQiOmZhbHNlLCJleHBpcmVzQXQiOiJXZWQsIDEwIEF1ZyAyMDIyIDE3OjE4OjQ1IEdNVCJ9
+    
+
+{
+  "targetBuildOverride": {
+    "discord_web": {
+      "type": "branch",
+      "id": "feature/web-slash-command-localization"
+    }
+  },
+  "releaseChannel": null,
+  "validForUserIds": [],
+  "allowLoggedOut": false,
+  "expiresAt": "Wed, 10 Aug 2022 17:18:45 GMT"
+}
 ```
 
 
