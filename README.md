@@ -2,10 +2,14 @@
 
 <details>
 <summary>Override</summary>
-```html
+    
+### Non funzionante
+```
 https://discord.com/__development/link?s=VQw65opXPNOuzDRAa9ID91y7BV0U0ATg%2FmZfrhCBCqc%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImZlYXR1cmUvd2ViLXNsYXNoLWNvbW1hbmQtbG9jYWxpemF0aW9uIn19LCJyZWxlYXNlQ2hhbm5lbCI6bnVsbCwidmFsaWRGb3JVc2VySWRzIjpbXSwiYWxsb3dMb2dnZWRPdXQiOmZhbHNlLCJleHBpcmVzQXQiOiJXZWQsIDEwIEF1ZyAyMDIyIDE3OjE4OjQ1IEdNVCJ9
 ```
 
+
+### Experiment link
 ```js
 let wpRequire;
 window.webpackChunkdiscord_app.push([[ Math.random() ], {}, (req) => { wpRequire = req; }]);
@@ -24,8 +28,17 @@ usermod.exports.default.__proto__.getCurrentUser = oldGetUser
 
 </details>
 
-## Help center link
+<details>
+<summary>Help center link</summary>
 
+## Override test
+
+```
 https://support.discord.com/hc/en-us/community/posts/7962935678999-Discord-Build-over-rides-list-
-
+```
+    
+```
 https://support.discord.com/hc/en-us/articles/360030114991-Shhhhhh-
+```
+    
+</details>
