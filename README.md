@@ -63,6 +63,12 @@ usermod.exports.default.__proto__.getCurrentUser = oldGetUser
 https://pastebin.com/PS6BqFF3
 ```
 
+## reddit post with first Build Override
+
+```
+https://www.reddit.com/r/discordapp/comments/wglvh0/darker_discord_ftw/
+```
+
 ## Override test
 
 ```
