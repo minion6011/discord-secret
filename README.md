@@ -31,7 +31,7 @@ https://discord.com/__development/link?s=BuDTSWskHb2%2B0yghUp13pGg8DZVxjfFSevFKg
 
 ### annie/dark (broken)
 ```
-[https://discord.com/__development/link?s=BuDTSWskHb2%2B0yghUp13pGg8DZVxjfFSevFKgMdLzB4%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6Imlhbi9hY3R1YWxseS1kYXJrbW9kZSJ9fSwicmVsZWFzZUNoYW5uZWwiOm51bGwsInZhbGlkRm9yVXNlcklkcyI6W10sImFsbG93TG9nZ2VkT3V0IjpmYWxzZSwiZXhwaXJlc0F0IjoiRnJpLCAyNSBBdWcgMjAyMyAwMTozNjo1MyBHTVQiLCJleHBlcmltZW50cyI6bnVsbH0%3D](https://discord.com/__development/link?s=Z7XEywE8rsgTvI0MR9P4OknzH4LtPi9j9%2Br8Hwzrohg%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImFubmllL2RhcmsifX0sInJlbGVhc2VDaGFubmVsIjpudWxsLCJ2YWxpZEZvclVzZXJJZHMiOltdLCJhbGxvd0xvZ2dlZE91dCI6ZmFsc2UsImV4cGlyZXNBdCI6IlN1biwgMjggSmFuIDIwMjQgMDE6NTU6MDcgR01UIn0%3D)
+https://discord.com/__development/link?s=Z7XEywE8rsgTvI0MR9P4OknzH4LtPi9j9%2Br8Hwzrohg%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImFubmllL2RhcmsifX0sInJlbGVhc2VDaGFubmVsIjpudWxsLCJ2YWxpZEZvclVzZXJJZHMiOltdLCJhbGxvd0xvZ2dlZE91dCI6ZmFsc2UsImV4cGlyZXNBdCI6IlN1biwgMjggSmFuIDIwMjQgMDE6NTU6MDcgR01UIn0%3D
 ```
 
 ### Experiment link
@@ -55,6 +55,13 @@ usermod.exports.default.__proto__.getCurrentUser = oldGetUser
 
 <details>
 <summary>Help center link</summary>
+
+
+## Build Overrides second leak (2023) by No Text To Speech
+
+```
+https://pastebin.com/PS6BqFF3
+```
 
 ## Override test
 
