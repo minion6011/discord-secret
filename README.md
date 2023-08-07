@@ -54,7 +54,7 @@ usermod.exports.default.__proto__.getCurrentUser = oldGetUser
 </details>
 
 <details>
-<summary>Help center link</summary>
+<summary>Help center - link ovveride builds</summary>
 
 
 ## Build Overrides second leak (2023) by No Text To Speech
