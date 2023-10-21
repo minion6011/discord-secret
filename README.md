@@ -87,7 +87,9 @@ https://support.discord.com/hc/en-us/articles/360030114991-Shhhhhh-
 <details>
 <summary>Fun / Troll Things</summary>
 
-
+```
+1164486607315947610 id of active developer bug
+```
 
 <details>
 <summary>Discord app protocols</summary>
